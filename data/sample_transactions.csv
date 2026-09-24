@@ -1,0 +1,371 @@
+Date,Category,Amount,Payment_Mode,Description
+2025-01-02,Groceries,1088.23,Credit Card,Fresh Vegetables & Fruits
+2025-01-04,Bills & Utilities,1451.01,UPI,Mobile Postpaid Recharge
+2025-01-05,Groceries,3690.65,UPI,Supermarket Weekly Groceries
+2025-01-05,Bills & Utilities,2262.98,Credit Card,Electricity Power Bill
+2025-01-05,Transportation,429.14,Debit Card,Metro Rail Smartcard Recharge
+2025-01-08,Groceries,2520.62,Debit Card,Dairy Milk & Eggs Delivery
+2025-01-09,Food & Dining,293.34,Cash,Breakfast & Tea Stall
+2025-01-11,Transportation,245.15,Cash,Auto Rickshaw Fare
+2025-01-11,Groceries,1775.31,Debit Card,Spices & Cooking Essentials
+2025-01-14,Transportation,415.16,Debit Card,Ola Auto Ride
+2025-01-15,Food & Dining,837.32,Debit Card,Weekend Restaurant Dinner
+2025-01-17,Shopping,1973.23,Credit Card,Myntra Clothing Order
+2025-01-17,Bills & Utilities,1592.74,UPI,Broadband Wi-Fi Bill
+2025-01-18,Food & Dining,487.87,Cash,Weekend Restaurant Dinner
+2025-01-19,Shopping,2390.23,Credit Card,Home Furnishing Goods
+2025-01-20,Bills & Utilities,3179.57,Credit Card,Broadband Wi-Fi Bill
+2025-01-21,Entertainment,1134.95,Credit Card,BookMyShow Cinema Tickets
+2025-01-23,Bills & Utilities,3323.26,Credit Card,Water Supply Utility Charge
+2025-01-24,Groceries,833.51,Credit Card,Dairy Milk & Eggs Delivery
+2025-01-25,Entertainment,744.69,UPI,Spotify Annual Plan
+2025-01-26,Transportation,585.55,UPI,City Bus Pass
+2025-01-26,Shopping,1632.5,Credit Card,Electronics Accessories Cable
+2025-01-27,Food & Dining,616.5,Debit Card,Zomato Food Order
+2025-01-27,Education,1379.94,Debit Card,Coursera Certification Course
+2025-01-27,Food & Dining,707.13,Debit Card,Fast Food Burger & Fries
+2025-01-27,Shopping,2560.85,Credit Card,Footwear & Shoes Store
+2025-01-28,Transportation,435.13,UPI,Auto Rickshaw Fare
+2025-01-28,Groceries,1599.22,Credit Card,Supermarket Weekly Groceries
+2025-01-29,Food & Dining,535.75,UPI,Office Cafeteria Lunch
+2025-01-30,Healthcare,643.5,UPI,Apollo Pharmacy Medicines
+2025-01-31,Food & Dining,540.0,Cash,Swiggy Grocery Snack
+2025-02-01,Food & Dining,614.17,Cash,Zomato Food Order
+2025-02-01,Groceries,1239.22,UPI,Spices & Cooking Essentials
+2025-02-02,Groceries,2015.31,UPI,Organic Mart Essentials
+2025-02-02,Groceries,1524.06,Credit Card,Spices & Cooking Essentials
+2025-02-04,Entertainment,1316.41,UPI,Weekend Streaming Movies
+2025-02-05,Healthcare,984.52,Cash,Vitamin & Protein Supplements
+2025-02-05,Food & Dining,774.97,UPI,Cafe Coffee Day
+2025-02-06,Bills & Utilities,3399.39,Credit Card,Water Supply Utility Charge
+2025-02-07,Entertainment,736.56,UPI,BookMyShow Cinema Tickets
+2025-02-08,Healthcare,1546.85,UPI,Vitamin & Protein Supplements
+2025-02-09,Entertainment,959.27,Credit Card,Gaming Arcade & Bowling
+2025-02-11,Transportation,197.96,Cash,Ola Auto Ride
+2025-02-12,Bills & Utilities,1198.34,Credit Card,Broadband Wi-Fi Bill
+2025-02-13,Entertainment,572.6,UPI,BookMyShow Cinema Tickets
+2025-02-13,Groceries,1604.0,Credit Card,Fresh Vegetables & Fruits
+2025-02-14,Food & Dining,635.23,Debit Card,Breakfast & Tea Stall
+2025-02-16,Food & Dining,811.05,Cash,Zomato Food Order
+2025-02-16,Bills & Utilities,2462.68,Credit Card,Electricity Power Bill
+2025-02-16,Shopping,1181.59,Credit Card,Books & Study Stationery
+2025-02-17,Groceries,1573.04,Credit Card,Organic Mart Essentials
+2025-02-17,Healthcare,1863.03,UPI,Dental Routine Checkup
+2025-02-17,Transportation,315.34,Cash,Metro Rail Smartcard Recharge
+2025-02-18,Transportation,301.67,Cash,Auto Rickshaw Fare
+2025-02-20,Healthcare,883.74,UPI,Diagnostic Blood Test Lab
+2025-02-21,Shopping,1754.11,UPI,Myntra Clothing Order
+2025-02-21,Entertainment,834.34,Credit Card,BookMyShow Cinema Tickets
+2025-02-21,Transportation,361.67,Debit Card,Petrol Fuel Refill
+2025-02-22,Bills & Utilities,1769.61,Credit Card,Water Supply Utility Charge
+2025-02-25,Food & Dining,450.26,Debit Card,Office Cafeteria Lunch
+2025-02-25,Transportation,286.96,Cash,City Bus Pass
+2025-02-26,Shopping,1618.02,Credit Card,Amazon Online Shopping
+2025-02-26,Shopping,2190.75,Debit Card,Amazon Online Shopping
+2025-02-28,Transportation,236.1,Debit Card,Ola Auto Ride
+2025-02-28,Transportation,224.96,Cash,Ola Auto Ride
+2025-03-01,Entertainment,683.09,Credit Card,BookMyShow Cinema Tickets
+2025-03-01,Education,1457.49,Debit Card,Coursera Certification Course
+2025-03-02,Transportation,204.82,Debit Card,Ola Auto Ride
+2025-03-03,Shopping,2348.75,Credit Card,Footwear & Shoes Store
+2025-03-06,Food & Dining,774.89,Cash,Weekend Restaurant Dinner
+2025-03-07,Transportation,618.03,UPI,Ola Auto Ride
+2025-03-07,Food & Dining,577.43,UPI,Weekend Restaurant Dinner
+2025-03-09,Bills & Utilities,1766.53,UPI,Electricity Power Bill
+2025-03-09,Food & Dining,531.37,Cash,Breakfast & Tea Stall
+2025-03-10,Food & Dining,1057.29,Cash,Office Cafeteria Lunch
+2025-03-10,Shopping,2617.41,Debit Card,Electronics Accessories Cable
+2025-03-11,Food & Dining,911.79,Debit Card,Zomato Food Order
+2025-03-12,Food & Dining,589.42,UPI,Local Dhaba Dinner
+2025-03-12,Transportation,572.09,Debit Card,Metro Rail Smartcard Recharge
+2025-03-13,Bills & Utilities,2549.7,Credit Card,Electricity Power Bill
+2025-03-15,Groceries,2165.73,UPI,Supermarket Weekly Groceries
+2025-03-16,Food & Dining,525.6,Debit Card,Office Cafeteria Lunch
+2025-03-19,Groceries,1772.99,Debit Card,Dairy Milk & Eggs Delivery
+2025-03-19,Healthcare,1195.57,Debit Card,Apollo Pharmacy Medicines
+2025-03-22,Groceries,3202.25,Debit Card,Dairy Milk & Eggs Delivery
+2025-03-22,Food & Dining,635.02,Cash,Fast Food Burger & Fries
+2025-03-23,Healthcare,775.33,Cash,Dental Routine Checkup
+2025-03-25,Healthcare,707.1,UPI,Diagnostic Blood Test Lab
+2025-03-26,Food & Dining,967.91,Debit Card,Swiggy Grocery Snack
+2025-03-26,Bills & Utilities,1045.18,UPI,Housing Society Maintenance
+2025-03-28,Transportation,263.76,Debit Card,Auto Rickshaw Fare
+2025-03-29,Food & Dining,755.12,Debit Card,Local Dhaba Dinner
+2025-03-31,Food & Dining,923.18,Debit Card,Swiggy Grocery Snack
+2025-04-01,Entertainment,348.12,Credit Card,Gaming Arcade & Bowling
+2025-04-01,Healthcare,1444.35,Debit Card,Vitamin & Protein Supplements
+2025-04-04,Food & Dining,586.84,UPI,Fast Food Burger & Fries
+2025-04-06,Bills & Utilities,1223.17,UPI,Electricity Power Bill
+2025-04-06,Groceries,1828.33,Debit Card,Dairy Milk & Eggs Delivery
+2025-04-07,Education,1209.5,UPI,Udemy Python Programming Course
+2025-04-09,Food & Dining,658.85,Cash,Swiggy Grocery Snack
+2025-04-09,Food & Dining,400.87,UPI,Swiggy Grocery Snack
+2025-04-10,Groceries,3160.44,Credit Card,Spices & Cooking Essentials
+2025-04-12,Food & Dining,825.99,Cash,Local Dhaba Dinner
+2025-04-12,Food & Dining,416.08,Cash,Cafe Coffee Day
+2025-04-13,Shopping,2101.24,UPI,Myntra Clothing Order
+2025-04-13,Shopping,1341.36,UPI,Amazon Online Shopping
+2025-04-15,Bills & Utilities,1793.79,UPI,LPG Gas Cylinder Booking
+2025-04-16,Food & Dining,899.9,UPI,Local Dhaba Dinner
+2025-04-18,Bills & Utilities,2524.96,UPI,Water Supply Utility Charge
+2025-04-18,Shopping,48500.0,Credit Card,Luxury Flagship Smartphone & Earbuds Purchase
+2025-04-19,Groceries,1387.43,Credit Card,Organic Mart Essentials
+2025-04-23,Food & Dining,842.2,UPI,Local Dhaba Dinner
+2025-04-24,Groceries,1186.91,Debit Card,Blinkit Daily Essentials
+2025-04-24,Shopping,3390.93,Credit Card,Home Furnishing Goods
+2025-04-25,Food & Dining,452.79,Debit Card,Swiggy Grocery Snack
+2025-04-26,Transportation,576.77,UPI,Metro Rail Smartcard Recharge
+2025-04-26,Entertainment,1122.15,Credit Card,Weekend Streaming Movies
+2025-04-27,Bills & Utilities,2016.37,Net Banking,Housing Society Maintenance
+2025-04-29,Food & Dining,452.32,UPI,Office Cafeteria Lunch
+2025-04-30,Groceries,2084.36,Debit Card,Dairy Milk & Eggs Delivery
+2025-04-30,Groceries,1134.02,Debit Card,Supermarket Weekly Groceries
+2025-04-30,Transportation,273.67,Cash,Airport Shuttle Cab
+2025-05-02,Food & Dining,659.72,Cash,Office Cafeteria Lunch
+2025-05-02,Groceries,1573.01,Credit Card,Blinkit Daily Essentials
+2025-05-02,Healthcare,1417.71,Cash,Dental Routine Checkup
+2025-05-03,Food & Dining,1039.56,UPI,Cafe Coffee Day
+2025-05-03,Bills & Utilities,1787.25,Net Banking,Water Supply Utility Charge
+2025-05-03,Groceries,2537.25,Credit Card,Supermarket Weekly Groceries
+2025-05-04,Bills & Utilities,2124.37,Net Banking,Housing Society Maintenance
+2025-05-04,Bills & Utilities,2430.38,Credit Card,Housing Society Maintenance
+2025-05-05,Groceries,1126.25,UPI,Organic Mart Essentials
+2025-05-06,Groceries,1160.65,Debit Card,Blinkit Daily Essentials
+2025-05-06,Education,1792.54,Net Banking,Coding Bootcamp Monthly Fee
+2025-05-08,Healthcare,473.8,UPI,Dental Routine Checkup
+2025-05-09,Bills & Utilities,2666.74,Credit Card,Housing Society Maintenance
+2025-05-09,Shopping,1244.4,Credit Card,Myntra Clothing Order
+2025-05-10,Shopping,2123.58,Debit Card,Electronics Accessories Cable
+2025-05-10,Food & Dining,786.78,Debit Card,Weekend Restaurant Dinner
+2025-05-11,Food & Dining,625.03,Cash,Local Dhaba Dinner
+2025-05-11,Groceries,1147.42,Credit Card,Supermarket Weekly Groceries
+2025-05-11,Groceries,1056.99,Credit Card,Blinkit Daily Essentials
+2025-05-12,Food & Dining,412.81,Cash,Breakfast & Tea Stall
+2025-05-16,Shopping,2802.5,Debit Card,Amazon Online Shopping
+2025-05-17,Shopping,1847.46,UPI,Home Furnishing Goods
+2025-05-20,Groceries,1286.73,Credit Card,Fresh Vegetables & Fruits
+2025-05-20,Groceries,697.73,Credit Card,Blinkit Daily Essentials
+2025-05-20,Transportation,342.73,UPI,Petrol Fuel Refill
+2025-05-20,Groceries,1689.03,Debit Card,Spices & Cooking Essentials
+2025-05-21,Transportation,289.19,UPI,Ola Auto Ride
+2025-05-22,Shopping,1361.39,Credit Card,Electronics Accessories Cable
+2025-05-23,Food & Dining,1186.54,Debit Card,Cafe Coffee Day
+2025-05-23,Groceries,2667.12,UPI,Dairy Milk & Eggs Delivery
+2025-05-25,Bills & Utilities,3029.91,Credit Card,Housing Society Maintenance
+2025-05-25,Groceries,2479.06,Debit Card,Organic Mart Essentials
+2025-05-25,Shopping,2197.87,UPI,Myntra Clothing Order
+2025-05-27,Food & Dining,922.34,Cash,Weekend Restaurant Dinner
+2025-05-27,Food & Dining,558.85,Cash,Cafe Coffee Day
+2025-05-29,Education,2341.34,Net Banking,Coding Bootcamp Monthly Fee
+2025-05-29,Food & Dining,229.36,Debit Card,Office Cafeteria Lunch
+2025-05-30,Food & Dining,526.46,Debit Card,Fast Food Burger & Fries
+2025-05-31,Food & Dining,827.08,Debit Card,Weekend Restaurant Dinner
+2025-05-31,Food & Dining,928.34,UPI,Weekend Restaurant Dinner
+2025-06-01,Food & Dining,974.56,Debit Card,Swiggy Grocery Snack
+2025-06-01,Groceries,2046.61,Credit Card,Fresh Vegetables & Fruits
+2025-06-02,Shopping,2208.91,Credit Card,Myntra Clothing Order
+2025-06-03,Transportation,315.68,Cash,City Bus Pass
+2025-06-04,Transportation,685.32,Debit Card,Petrol Fuel Refill
+2025-06-04,Food & Dining,695.64,Debit Card,Zomato Food Order
+2025-06-04,Food & Dining,590.51,Debit Card,Cafe Coffee Day
+2025-06-04,Groceries,3272.44,UPI,Spices & Cooking Essentials
+2025-06-08,Bills & Utilities,1816.37,Credit Card,Mobile Postpaid Recharge
+2025-06-08,Food & Dining,457.92,UPI,Zomato Food Order
+2025-06-08,Shopping,887.65,UPI,Books & Study Stationery
+2025-06-08,Transportation,690.3,Debit Card,City Bus Pass
+2025-06-09,Groceries,1992.93,UPI,Fresh Vegetables & Fruits
+2025-06-10,Food & Dining,734.54,Cash,Office Cafeteria Lunch
+2025-06-10,Bills & Utilities,1351.86,UPI,Water Supply Utility Charge
+2025-06-12,Healthcare,1975.71,Cash,Vitamin & Protein Supplements
+2025-06-17,Groceries,2835.02,Credit Card,Spices & Cooking Essentials
+2025-06-18,Groceries,1824.31,Debit Card,Spices & Cooking Essentials
+2025-06-19,Groceries,1744.24,Credit Card,Dairy Milk & Eggs Delivery
+2025-06-20,Transportation,363.22,Cash,Ola Auto Ride
+2025-06-20,Food & Dining,569.47,Debit Card,Office Cafeteria Lunch
+2025-06-22,Food & Dining,1001.59,UPI,Fast Food Burger & Fries
+2025-06-23,Shopping,2119.15,Credit Card,Myntra Clothing Order
+2025-06-24,Food & Dining,614.12,Debit Card,Cafe Coffee Day
+2025-06-28,Groceries,1506.5,UPI,Fresh Vegetables & Fruits
+2025-06-29,Food & Dining,1027.72,Cash,Breakfast & Tea Stall
+2025-07-01,Food & Dining,511.27,Cash,Cafe Coffee Day
+2025-07-05,Food & Dining,821.43,Cash,Weekend Restaurant Dinner
+2025-07-05,Groceries,3185.36,Credit Card,Spices & Cooking Essentials
+2025-07-05,Groceries,1970.23,Debit Card,Fresh Vegetables & Fruits
+2025-07-06,Groceries,3171.08,Credit Card,Organic Mart Essentials
+2025-07-07,Food & Dining,597.03,Debit Card,Cafe Coffee Day
+2025-07-08,Food & Dining,753.27,Cash,Cafe Coffee Day
+2025-07-08,Food & Dining,519.68,UPI,Breakfast & Tea Stall
+2025-07-09,Groceries,1512.47,Debit Card,Organic Mart Essentials
+2025-07-10,Shopping,2325.19,Debit Card,Electronics Accessories Cable
+2025-07-11,Shopping,2283.93,Debit Card,Amazon Online Shopping
+2025-07-11,Food & Dining,547.49,UPI,Weekend Restaurant Dinner
+2025-07-11,Food & Dining,216.51,UPI,Weekend Restaurant Dinner
+2025-07-13,Food & Dining,530.02,Cash,Weekend Restaurant Dinner
+2025-07-14,Food & Dining,594.29,Debit Card,Swiggy Grocery Snack
+2025-07-15,Shopping,3702.14,Credit Card,Books & Study Stationery
+2025-07-15,Education,1653.3,UPI,Academic Seminar Registration
+2025-07-17,Groceries,3626.77,Debit Card,Dairy Milk & Eggs Delivery
+2025-07-17,Education,2171.43,Debit Card,Udemy Python Programming Course
+2025-07-18,Groceries,2203.34,Debit Card,Blinkit Daily Essentials
+2025-07-19,Shopping,3795.37,UPI,Electronics Accessories Cable
+2025-07-22,Healthcare,34500.0,Net Banking,Emergency Hospitalization Dental Root Canal & Surgery
+2025-07-23,Transportation,529.61,Debit Card,Airport Shuttle Cab
+2025-07-23,Entertainment,393.81,UPI,Gaming Arcade & Bowling
+2025-07-24,Groceries,3656.16,UPI,Organic Mart Essentials
+2025-07-24,Bills & Utilities,3052.39,UPI,Electricity Power Bill
+2025-07-24,Food & Dining,794.79,UPI,Cafe Coffee Day
+2025-07-25,Groceries,1020.64,Debit Card,Spices & Cooking Essentials
+2025-07-28,Food & Dining,355.76,Debit Card,Weekend Restaurant Dinner
+2025-07-28,Education,2070.11,Net Banking,Udemy Python Programming Course
+2025-07-28,Food & Dining,1309.19,UPI,Fast Food Burger & Fries
+2025-07-30,Food & Dining,878.58,Cash,Breakfast & Tea Stall
+2025-08-01,Entertainment,959.19,Credit Card,Gaming Arcade & Bowling
+2025-08-01,Groceries,2518.46,Credit Card,Supermarket Weekly Groceries
+2025-08-01,Bills & Utilities,1790.68,UPI,Housing Society Maintenance
+2025-08-01,Food & Dining,889.14,UPI,Weekend Restaurant Dinner
+2025-08-03,Transportation,372.56,Cash,Ola Auto Ride
+2025-08-05,Groceries,2773.63,UPI,Blinkit Daily Essentials
+2025-08-05,Food & Dining,643.51,UPI,Fast Food Burger & Fries
+2025-08-05,Bills & Utilities,2693.27,Credit Card,Housing Society Maintenance
+2025-08-05,Entertainment,1118.28,Credit Card,Weekend Streaming Movies
+2025-08-06,Food & Dining,943.26,Cash,Fast Food Burger & Fries
+2025-08-07,Shopping,2304.45,Credit Card,Books & Study Stationery
+2025-08-08,Groceries,2087.7,Debit Card,Blinkit Daily Essentials
+2025-08-08,Food & Dining,569.8,Cash,Breakfast & Tea Stall
+2025-08-09,Food & Dining,693.4,Cash,Office Cafeteria Lunch
+2025-08-09,Food & Dining,814.61,Cash,Fast Food Burger & Fries
+2025-08-09,Food & Dining,587.56,Cash,Local Dhaba Dinner
+2025-08-10,Healthcare,1456.27,Debit Card,Doctor Consultation Clinic
+2025-08-11,Food & Dining,686.33,Cash,Swiggy Grocery Snack
+2025-08-12,Shopping,2415.56,UPI,Myntra Clothing Order
+2025-08-12,Transportation,341.9,UPI,City Bus Pass
+2025-08-12,Shopping,1631.88,Debit Card,Home Furnishing Goods
+2025-08-12,Entertainment,1146.04,Credit Card,Spotify Annual Plan
+2025-08-13,Entertainment,844.04,UPI,Netflix Premium Subscription
+2025-08-13,Food & Dining,824.2,Cash,Breakfast & Tea Stall
+2025-08-13,Transportation,392.43,Cash,Ola Auto Ride
+2025-08-15,Transportation,316.96,UPI,Metro Rail Smartcard Recharge
+2025-08-19,Entertainment,562.58,Credit Card,BookMyShow Cinema Tickets
+2025-08-20,Entertainment,811.75,Credit Card,Gaming Arcade & Bowling
+2025-08-21,Groceries,2406.51,Credit Card,Organic Mart Essentials
+2025-08-24,Food & Dining,193.41,Debit Card,Swiggy Grocery Snack
+2025-08-25,Groceries,3515.3,Debit Card,Blinkit Daily Essentials
+2025-08-25,Groceries,836.82,Credit Card,Supermarket Weekly Groceries
+2025-08-27,Groceries,2215.84,Debit Card,Spices & Cooking Essentials
+2025-08-29,Shopping,1683.48,Debit Card,Books & Study Stationery
+2025-08-31,Transportation,286.27,Debit Card,Petrol Fuel Refill
+2025-09-01,Groceries,2414.21,Debit Card,Dairy Milk & Eggs Delivery
+2025-09-01,Transportation,341.54,UPI,Metro Rail Smartcard Recharge
+2025-09-02,Food & Dining,313.57,Debit Card,Cafe Coffee Day
+2025-09-03,Groceries,1226.38,UPI,Dairy Milk & Eggs Delivery
+2025-09-06,Shopping,4015.52,Debit Card,Myntra Clothing Order
+2025-09-06,Groceries,2776.7,UPI,Fresh Vegetables & Fruits
+2025-09-07,Food & Dining,532.49,UPI,Zomato Food Order
+2025-09-08,Entertainment,839.74,Credit Card,Spotify Annual Plan
+2025-09-09,Food & Dining,203.87,Debit Card,Fast Food Burger & Fries
+2025-09-10,Food & Dining,284.37,UPI,Office Cafeteria Lunch
+2025-09-10,Food & Dining,486.94,Cash,Office Cafeteria Lunch
+2025-09-11,Healthcare,743.98,Cash,Diagnostic Blood Test Lab
+2025-09-12,Entertainment,557.32,Credit Card,Spotify Annual Plan
+2025-09-14,Shopping,2208.95,Credit Card,Books & Study Stationery
+2025-09-14,Transportation,420.2,Cash,Metro Rail Smartcard Recharge
+2025-09-16,Transportation,370.84,Debit Card,Auto Rickshaw Fare
+2025-09-16,Transportation,123.1,Debit Card,City Bus Pass
+2025-09-18,Bills & Utilities,1981.01,UPI,LPG Gas Cylinder Booking
+2025-09-18,Bills & Utilities,1386.89,Net Banking,Mobile Postpaid Recharge
+2025-09-20,Transportation,326.26,UPI,Petrol Fuel Refill
+2025-09-22,Shopping,1729.26,Credit Card,Footwear & Shoes Store
+2025-09-23,Transportation,584.17,UPI,Petrol Fuel Refill
+2025-09-23,Groceries,2427.3,Debit Card,Spices & Cooking Essentials
+2025-09-24,Groceries,1348.33,Credit Card,Supermarket Weekly Groceries
+2025-09-25,Groceries,2958.65,Credit Card,Organic Mart Essentials
+2025-09-26,Food & Dining,1028.67,Cash,Weekend Restaurant Dinner
+2025-09-27,Food & Dining,310.91,Debit Card,Weekend Restaurant Dinner
+2025-09-27,Bills & Utilities,1053.89,UPI,Water Supply Utility Charge
+2025-09-27,Transportation,485.45,Debit Card,Petrol Fuel Refill
+2025-09-28,Entertainment,819.64,UPI,Weekend Streaming Movies
+2025-09-29,Food & Dining,613.96,Debit Card,Office Cafeteria Lunch
+2025-09-30,Groceries,1593.27,Debit Card,Blinkit Daily Essentials
+2025-10-01,Groceries,1498.55,Debit Card,Spices & Cooking Essentials
+2025-10-03,Food & Dining,509.97,Debit Card,Cafe Coffee Day
+2025-10-04,Groceries,2387.92,UPI,Spices & Cooking Essentials
+2025-10-05,Food & Dining,318.08,Cash,Swiggy Grocery Snack
+2025-10-07,Shopping,3456.21,UPI,Myntra Clothing Order
+2025-10-07,Groceries,1003.77,Credit Card,Blinkit Daily Essentials
+2025-10-09,Food & Dining,791.35,Cash,Zomato Food Order
+2025-10-09,Food & Dining,344.72,Debit Card,Weekend Restaurant Dinner
+2025-10-11,Entertainment,300.49,UPI,Weekend Streaming Movies
+2025-10-11,Food & Dining,614.38,Debit Card,Office Cafeteria Lunch
+2025-10-12,Entertainment,26800.0,Credit Card,VIP Music Festival International Weekend Passes
+2025-10-13,Food & Dining,551.23,UPI,Local Dhaba Dinner
+2025-10-13,Shopping,2451.27,Debit Card,Myntra Clothing Order
+2025-10-15,Transportation,462.09,Cash,Petrol Fuel Refill
+2025-10-15,Groceries,1063.58,Credit Card,Blinkit Daily Essentials
+2025-10-15,Education,2238.08,Debit Card,Academic Seminar Registration
+2025-10-16,Healthcare,655.76,UPI,Apollo Pharmacy Medicines
+2025-10-18,Entertainment,730.32,Credit Card,Gaming Arcade & Bowling
+2025-10-19,Food & Dining,742.87,Cash,Cafe Coffee Day
+2025-10-20,Transportation,247.06,Cash,Airport Shuttle Cab
+2025-10-20,Transportation,278.18,Cash,Petrol Fuel Refill
+2025-10-21,Food & Dining,578.92,Debit Card,Swiggy Grocery Snack
+2025-10-22,Groceries,506.72,Credit Card,Dairy Milk & Eggs Delivery
+2025-10-22,Bills & Utilities,3606.41,UPI,Housing Society Maintenance
+2025-10-23,Food & Dining,319.71,Cash,Local Dhaba Dinner
+2025-10-23,Transportation,137.25,UPI,Airport Shuttle Cab
+2025-10-24,Groceries,3033.98,Debit Card,Blinkit Daily Essentials
+2025-10-25,Transportation,488.82,UPI,City Bus Pass
+2025-10-30,Groceries,702.32,UPI,Fresh Vegetables & Fruits
+2025-11-01,Food & Dining,1016.39,Debit Card,Cafe Coffee Day
+2025-11-02,Groceries,1172.13,Debit Card,Organic Mart Essentials
+2025-11-03,Groceries,634.85,Credit Card,Dairy Milk & Eggs Delivery
+2025-11-06,Groceries,2534.8,UPI,Blinkit Daily Essentials
+2025-11-07,Education,963.32,Debit Card,Udemy Python Programming Course
+2025-11-07,Bills & Utilities,3013.34,UPI,Broadband Wi-Fi Bill
+2025-11-07,Shopping,1571.28,Credit Card,Electronics Accessories Cable
+2025-11-08,Transportation,359.3,UPI,Uber Ride to Office
+2025-11-09,Food & Dining,310.4,Debit Card,Swiggy Grocery Snack
+2025-11-11,Education,1267.97,Net Banking,Coursera Certification Course
+2025-11-12,Transportation,308.86,UPI,Ola Auto Ride
+2025-11-12,Shopping,2281.03,UPI,Home Furnishing Goods
+2025-11-13,Groceries,2250.36,Credit Card,Supermarket Weekly Groceries
+2025-11-14,Groceries,2614.76,UPI,Blinkit Daily Essentials
+2025-11-15,Transportation,575.37,Debit Card,Petrol Fuel Refill
+2025-11-18,Food & Dining,816.67,Cash,Cafe Coffee Day
+2025-11-20,Transportation,246.61,UPI,Ola Auto Ride
+2025-11-22,Education,1341.74,Debit Card,Technical Reference Textbooks
+2025-11-24,Food & Dining,875.37,UPI,Local Dhaba Dinner
+2025-11-25,Groceries,1594.39,UPI,Blinkit Daily Essentials
+2025-11-26,Groceries,1400.46,UPI,Blinkit Daily Essentials
+2025-11-27,Shopping,1614.64,Credit Card,Footwear & Shoes Store
+2025-11-27,Entertainment,1308.99,Credit Card,Gaming Arcade & Bowling
+2025-11-28,Shopping,41200.0,Credit Card,Black Friday Mega Deal 4K Smart OLED Television
+2025-11-29,Groceries,1113.08,UPI,Dairy Milk & Eggs Delivery
+2025-11-30,Food & Dining,253.39,UPI,Local Dhaba Dinner
+2025-11-30,Entertainment,935.41,UPI,Gaming Arcade & Bowling
+2025-12-01,Education,919.67,UPI,Technical Reference Textbooks
+2025-12-02,Food & Dining,662.56,Debit Card,Swiggy Grocery Snack
+2025-12-02,Bills & Utilities,1936.78,Credit Card,Housing Society Maintenance
+2025-12-03,Entertainment,853.22,UPI,Netflix Premium Subscription
+2025-12-03,Groceries,2713.0,Credit Card,Organic Mart Essentials
+2025-12-03,Healthcare,1405.78,UPI,Diagnostic Blood Test Lab
+2025-12-05,Food & Dining,490.88,Cash,Cafe Coffee Day
+2025-12-05,Shopping,1515.67,Credit Card,Electronics Accessories Cable
+2025-12-06,Food & Dining,783.19,UPI,Fast Food Burger & Fries
+2025-12-09,Entertainment,1238.48,Credit Card,Netflix Premium Subscription
+2025-12-10,Bills & Utilities,3532.5,Credit Card,Water Supply Utility Charge
+2025-12-10,Transportation,293.25,Debit Card,Auto Rickshaw Fare
+2025-12-11,Shopping,2374.47,Credit Card,Home Furnishing Goods
+2025-12-13,Transportation,154.16,Cash,Petrol Fuel Refill
+2025-12-14,Shopping,2785.16,UPI,Myntra Clothing Order
+2025-12-14,Groceries,1593.96,Credit Card,Supermarket Weekly Groceries
+2025-12-17,Groceries,2264.86,Debit Card,Fresh Vegetables & Fruits
+2025-12-18,Transportation,255.81,Cash,Ola Auto Ride
+2025-12-20,Food & Dining,542.79,Cash,Weekend Restaurant Dinner
+2025-12-20,Groceries,1731.82,Debit Card,Dairy Milk & Eggs Delivery
+2025-12-24,Groceries,696.79,Debit Card,Organic Mart Essentials
+2025-12-24,Food & Dining,18900.0,Credit Card,Year-End Corporate Family Celebration Banquet Party
+2025-12-26,Transportation,237.21,Debit Card,Ola Auto Ride
+2025-12-26,Food & Dining,1031.03,Debit Card,Local Dhaba Dinner
+2025-12-26,Entertainment,939.72,UPI,BookMyShow Cinema Tickets
+2025-12-27,Entertainment,837.26,Credit Card,BookMyShow Cinema Tickets
+2025-12-28,Groceries,2074.92,UPI,Supermarket Weekly Groceries
