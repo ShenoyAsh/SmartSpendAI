@@ -1,9 +1,9 @@
 # SmartSpend AI — Intelligent Personal Expense Analytics & Anomaly Detection
 
 **Academic Internship Project Submission**  
-**Program:** IBM SkillsBuild Data Analytics with AI Academic Internship  
-**Candidate Name:** Ashwini  
-**Academic Year:** 2025–2026  
+**Program:** IBM SkillsBuild Data Analytics with AI
+**Candidate Name:** Ashwini Shenoy B
+**Academic Year:** 2026
 **Deliverables:** Production Web Platform, REST API, Machine Learning Models, EDA Jupyter Notebook, Academic Project Report (.docx)
 
 ---
@@ -384,7 +384,7 @@ python -m pytest backend/tests/test_backend.py -v
 
 ## 17. Contributors & Academic Attribution
 
-- **Candidate**: Ashwini  
+- **Candidate**: Ashwini Shenoy B
 - **Internship**: IBM SkillsBuild Data Analytics with AI Academic Internship Program  
 - **Track**: Final Year Computer Science & Engineering (CSE)  
-- **Date**: March 2026
+- **Year**: 2026
